@@ -64,18 +64,18 @@ To get a local copy up and running follow these simple steps:
 
 Clone this repository using your terminal or command line:
 
-[https://github.com/ChiaEndu/Html-project-1]
+[https://github.com/ChiaEndu/HTML-project-1]
 
 
 Change to the project directory:
 
-cd Html-project
+cd HTML-project
 
-Command Line Steps
+Command-Line Steps
 
-$ git clone [https://github.com/ChiaEndu/Html-project-1]
+$ git clone [https://github.com/ChiaEndu/HTML-project-1]
 
-$ cd Html-project
+$ cd HTML-project
 
 $ git checkout main
 
