@@ -36,7 +36,7 @@ Clean section-based organization
 Design File
 
 * The original design can be found here:
- https://www.figma.com/design/Ip0YLscX7e46Dxu1cVreDB/Whitepace---SaaS-Landing-Page-(Community)?node-id=9-100&p=f&t=ph5rB3i6qTqdcPAu-0
+ [https://www.figma.com/design/Ip0YLscX7e46Dxu1cVreDB/Whitepace---SaaS-Landing-Page-(Community)?node-id=9-100&p=f&t=ph5rB3i6qTqdcPAu-0]
 
 
 
@@ -64,18 +64,18 @@ To get a local copy up and running follow these simple steps:
 
 Clone this repository using your terminal or command line:
 
-https://github.com/ChiaEndu/Html-project-1
+[https://github.com/ChiaEndu/Html-project-1]
 
 
 Change to the project directory:
 
-cd Html-project-1
+cd Html-project
 
 Command Line Steps
 
-$ git clone https://github.com/ChiaEndu/Html-project-1
+$ git clone [https://github.com/ChiaEndu/Html-project-1]
 
-$ cd Html-project-1
+$ cd Html-project
 
 $ git checkout main
 
