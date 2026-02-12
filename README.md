@@ -8,7 +8,7 @@
 Figma Whitepace is a responsive frontend project built from a Figma design.
 The goal of this project is to accurately replicate the provided UI design while maintaining clean code structure.
 
-## This project demonstrates:
+## This project demonstrates
 
 Proper semantic HTML structure
 
