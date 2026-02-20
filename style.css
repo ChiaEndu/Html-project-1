@@ -151,16 +151,16 @@ li {
   color: white;
 }
 
+ul {
+  list-style-type: circle;
+}
+
 .price-card ul {
   list-style-image: url("../assets/Icon.png");
 }
 
 .price-card.featured ul {
   list-style-image: url("../assets/Iconli2.png");
-}
-
-ul {
-  list-style-type: circle;
 }
 
 .card-btn,
