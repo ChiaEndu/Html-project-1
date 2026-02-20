@@ -214,6 +214,8 @@ ul {
   grid-template-columns: repeat(3, 1fr);
   gap: 26px;
   padding: 25px 0;
+  margin-left: clamp(1rem, 6vw, 10rem);
+  margin-right: clamp(1rem, 6vw, 10rem);
 }
 
 .testimonial-card {
@@ -254,20 +256,34 @@ ul {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   gap: 20px;
+  margin-left: clamp(1rem, 5vw, 7rem);
+  margin-right: clamp(1rem, 5vw, 7rem);
 }
 
 .footer-bottom {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
+  display: grid;
+  grid-template-columns: 5fr 1fr;
   border-top: 1px solid rgb(4 38 90);
   padding-top: 20px;
   margin-top: 20px;
+  margin-left: clamp(1rem, 5vw, 7rem);
+  margin-right: clamp(1rem, 5vw, 7rem);
+  justify-content: space-between;
 }
 
 #header {
   text-align: center;
   padding: 25px;
+}
+
+.list {
+  display: flex;
+  gap: 25px;
+}
+
+.icon {
+  gap: 10px;
+  align-items: end;
 }
 
 @media (max-width: 1024px) {
