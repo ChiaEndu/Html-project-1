@@ -15,6 +15,10 @@ body {
   margin: auto;
 }
 
+.hamburger {
+  display: none;
+}
+
 .navbar {
   background: #043873;
   padding: 1rem 0;
@@ -310,6 +314,10 @@ ul {
   .testimonial,
   .grid-3 {
     grid-template-columns: 1fr;
+  }
+
+  .hamburger {
+    display: block;
   }
 
   nav {
